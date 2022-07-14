@@ -25,8 +25,8 @@ Refresh new token. Add the new param in Header:
 Authentication : Token [your_token]
 
 # How to Run
-go mod authentication.com
-go get github.com/golang-jwt/jwt/v4
-go get github.com/gorilla/mux
-go build
-go run .
+1. go mod authentication.com
+2. go get github.com/golang-jwt/jwt/v4
+3. go get github.com/gorilla/mux
+4. go build
+5. go run .
